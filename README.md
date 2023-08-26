@@ -1,8 +1,9 @@
 <div align='center'" class="container">
   Hi 🫡, I'm <strong>Magnus</strong> and I'm a <strong>full-stack web developer</strong>
-  <br /><br />
+  <br/><br />
   <a href="https://www.linkedin.com/in/magnus-paal/"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width=25 height=25/></a>
-  <br /><br />
+  <hr/>
+  <br/>
   <div>
     <img src="https://img.shields.io/badge/Nest.js-E0234E?logo=nestjs&style=for-the-badge" height=25/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height=25/>
@@ -11,11 +12,10 @@
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge" height=25/>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" height=25/>
   </div>
-  <br /><br />
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnuspaal&layout=compact&hide=c++,CSS,HTML&langs_count=10&theme=dark&size_weight=0.2&count_weight=0.6">
-  </div>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnuspaal&layout=compact&hide=c++,CSS,HTML&langs_count=10&size_weight=0.2&count_weight=0.6">
 </div>
+
 <div align="center">
   <br/><br/><br/>
   <h2>📐 Personal projects</h2>
