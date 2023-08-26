@@ -16,10 +16,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnuspaal&layout=compact&hide=c++,CSS,HTML&langs_count=10&size_weight=0.2&count_weight=0.6">
   </div>
 </div>
-
-
-
-## Some interesting projects I've done 
+<div align="center">
+  <br/><br/><br/>
+  <h2>Some interesting projects I've done</h2>
+</div>
 
 Social application based on Twitter. Written in Next.js and Spring Boot.
 
