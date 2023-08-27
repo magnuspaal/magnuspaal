@@ -1,7 +1,11 @@
 <div align='center'" class="container">
   Hi 🫡, I'm <strong>Magnus</strong> and I'm a <strong>full stack developer</strong>
-  <br/><br />
-  <a href="https://www.linkedin.com/in/magnus-paal/"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width=25 height=25/></a>
+  <br/><br/>
+  <a href="http://magnuspaal.com">
+    <img src="https://img.shields.io/badge/magnuspaal.com-ffffff?logoColor=white&style=for-the-badge" height=25/>
+  </a>
+  <br/>
+  <a href="https://www.linkedin.com/in/magnus-paal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" height=25/></a>
   <hr/>
   <br/>
   <div>
