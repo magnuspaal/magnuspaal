@@ -68,7 +68,7 @@
 <div align="center">
   Repository for the code used in my Bachelor's thesis. Mostly containing Python code in Jupyter Notebooks.
   <br/><br/>
-  <a href="[https://github.com/magnuspaal/spotify-lyrics-frontend](https://github.com/magnuspaal/datapointloss)">
+  <a href="https://github.com/magnuspaal/datapointloss">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=datapointloss&theme=dark"/>
   </a>
 </div>
