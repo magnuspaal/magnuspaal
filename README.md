@@ -33,16 +33,16 @@
   </a>
   <br/><br/>
   <a href="https://github.com/magnuspaal/social-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=social-frontend&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=social-frontend&theme=dark" height=100/>
   </a>
   <a href="https://github.com/magnuspaal/social-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=social-backend&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=social-backend&theme=dark" height=100/>
   </a>
   <a href="https://github.com/magnuspaal/file-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=file-server&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=file-server&theme=dark" height=100/>
   </a>
   <a href="https://github.com/magnuspaal/auth-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=auth-api&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=auth-api&theme=dark" height=100/>
   </a>
 </div>
 
@@ -56,10 +56,10 @@
   </a>
   <br/><br/>
   <a href="https://github.com/magnuspaal/spotify-lyrics-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=spotify-lyrics-frontend&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=spotify-lyrics-frontend&theme=dark" height=100/>
   </a>
   <a href="https://github.com/magnuspaal/spotify-lyrics-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=spotify-lyrics-backend&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=spotify-lyrics-backend&theme=dark" height=100/>
   </a>
 </div>
 
@@ -69,6 +69,6 @@
   Repository for the code used in my Bachelor's thesis. Mostly containing Python code in Jupyter Notebooks.
   <br/><br/>
   <a href="https://github.com/magnuspaal/datapointloss">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=datapointloss&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=datapointloss&theme=dark" height=100/>
   </a>
 </div>
