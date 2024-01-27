@@ -22,7 +22,7 @@
 
 <div align="center">
   <br/><br/><br/>
-  <h2>📐 Personal projects</h2>
+  <h2>📐 Projects</h2>
 </div>
 
 <div align="center">
@@ -47,23 +47,6 @@
 </div>
 
 -------
-
-<div align="center">
-  Spotify lyrics that shows the lyrics of your currently playing song. Written in React.js and Node.js.
-  <br/><br/>
-  <a href="https://spotify.magnuspaal.com">
-    <img src="https://img.shields.io/badge/Demo-00A676?style=for-the-badge" height=30/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/magnuspaal/spotify-lyrics-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=spotify-lyrics-frontend&theme=dark" height=110/>
-  </a>
-  <a href="https://github.com/magnuspaal/spotify-lyrics-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=spotify-lyrics-backend&theme=dark" height=110/>
-  </a>
-</div>
-
-----
 
 <div align="center">
   Repository for the code used in my Bachelor's thesis. Mostly containing Python code in Jupyter Notebooks.
