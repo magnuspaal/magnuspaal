@@ -44,7 +44,7 @@
   <a href="https://github.com/magnuspaal/auth-api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=auth-api&theme=dark" height=110/>
   </a>
-    <a href="https://github.com/magnuspaal/messaging-service">
+  <a href="https://github.com/magnuspaal/messaging-service">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=messaging-service&theme=dark" height=110/>
   </a>
 </div>
