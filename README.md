@@ -1,10 +1,6 @@
 <div align='center'" class="container">
   Hi 🫡, I'm <strong>Magnus</strong> and I'm a <strong>full stack developer</strong>
   <br/><br/>
-  <a href="http://magnuspaal.com">
-    <img src="https://img.shields.io/badge/magnuspaal.com-ffffff?logoColor=white&style=for-the-badge" height=25/>
-  </a>
-  <br/>
   <a href="https://www.linkedin.com/in/magnus-paal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" height=25/></a>
   <hr/>
   <br/>
@@ -27,10 +23,6 @@
 
 <div align="center">
   Social application based on Twitter. Written in Next.js and Spring Boot.
-  <br/><br/>
-  <a href="https://social.magnuspaal.com">
-    <img src="https://img.shields.io/badge/Demo-00A676?style=for-the-badge" height=30/>
-  </a>
   <br/><br/>
   <a href="https://github.com/magnuspaal/social-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=magnuspaal&repo=social-frontend&theme=dark" height=110/>
