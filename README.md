@@ -1,5 +1,5 @@
 <div align='center'" class="container">
-  Hi 🫡, I'm <strong>Magnus</strong> and I'm a <strong>full stack developer</strong>
+  Hi 🫡, I'm <strong>Magnus</strong> and I'm a <strong>software developer</strong>
   <br/><br/>
   <a href="https://www.linkedin.com/in/magnus-paal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" height=25/></a>
   <hr/>
