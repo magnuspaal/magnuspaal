@@ -5,12 +5,12 @@
   <hr/>
   <br/>
   <div>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" height=25/>
+    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white&style=for-the-badge" height=25/>
     <img src="https://img.shields.io/badge/Nest.js-E0234E?logo=nestjs&style=for-the-badge" height=25/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height=25/>
     <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge" height=25/>
-    <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height=25/>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge" height=25/>
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" height=25/>
   </div>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnuspaal&layout=compact&hide=c++,CSS,HTML&langs_count=10&size_weight=0.2&count_weight=0.6">
